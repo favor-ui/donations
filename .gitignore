@@ -1,0 +1,6 @@
+app/views.py
+.vscode
+__pycache__
+venv
+test.py
+secret.py
